@@ -11,7 +11,7 @@
 7. [07-spider.py](07-spider.py) :实例--模拟爬取百度贴吧页面
 8. [08-spider.py](08-spider.py) :实例--模拟爬取百度贴吧页面（带备注）
 9. [09-spider.py](09-spider.py) :POST请求的练习，登录页面
-10. [10-spider.py](10-spider.py) :GET请求，两种转URL编码方式quote和urlencode
-11. [11-spider.py](11-spider.py) :实例--模拟爬取百度贴吧页面
-12. [12-spider.py](12-spider.py) :实例--模拟爬取百度贴吧页面（带备注）
-13. [13-spider.py](13-spider.py) :POST请求的练习，登录页面
+10. [10-spider.py](10-spider.py) :Ajax请求的练习
+11. [11-spider.py](11-spider.py) :
+12. [12-spider.py](12-spider.py) :
+13. [13-spider.py](13-spider.py) :
